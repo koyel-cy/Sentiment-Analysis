@@ -16,7 +16,7 @@ The Amazon Reviews Sentiment Analysis project aims to analyze customer sentiment
 
 ## Data Source
 
-The analysis utilizes a dataset of Amazon product reviews collected through web scraping or API integration.
+The analysis utilizes a dataset of Amazon product reviews having 8,000+ reviews from Kaggle.
 
 ## Tools Used
 
