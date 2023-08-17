@@ -1,6 +1,7 @@
 # Amazon Reviews Sentiment Analysis
 
 ## Description
+![Sentiment Analysis](https://github.com/koyel-cy/Sentiment-Analysis/assets/64901152/a7e2228d-9a92-42de-8d84-af37935c17af)
 
 The Amazon Reviews Sentiment Analysis project aims to analyze customer sentiments expressed in Amazon product reviews. By leveraging natural language processing techniques, the analysis provides valuable insights into customer perceptions and opinions about various products.
 
